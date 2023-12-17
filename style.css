@@ -216,6 +216,9 @@ header {
 
 .header-social {
     display: flex;
+    position: relative;
+    top: 10px;
+    left: 20px;
     gap: 2.5rem;
     justify-content: center;
     margin: .7rem auto;
